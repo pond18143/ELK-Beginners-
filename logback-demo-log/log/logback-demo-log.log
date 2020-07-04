@@ -1,0 +1,15 @@
+2020-07-04 14:14:01 | [main] | DEBUG | com.logback.LogbackRollingExample | demoLogDebug | - User id 5 has successfully logged in.
+2020-07-04 14:14:01 | [main] | INFO  | com.logback.LogbackRollingExample | demoLogInfo | - User id 5 entered the password incorrectly.
+2020-07-04 14:14:01 | [main] | ERROR | com.logback.LogbackRollingExample | demoLogError | - feature login error may be due to network problems
+2020-07-04 14:14:06 | [main] | DEBUG | com.logback.LogbackRollingExample | demoLogDebug | - User id 6 has successfully logged in.
+2020-07-04 14:14:06 | [main] | INFO  | com.logback.LogbackRollingExample | demoLogInfo | - User id 6 entered the password incorrectly.
+2020-07-04 14:14:06 | [main] | ERROR | com.logback.LogbackRollingExample | demoLogError | - feature login error may be due to network problems
+2020-07-04 14:14:11 | [main] | DEBUG | com.logback.LogbackRollingExample | demoLogDebug | - User id 7 has successfully logged in.
+2020-07-04 14:14:11 | [main] | INFO  | com.logback.LogbackRollingExample | demoLogInfo | - User id 7 entered the password incorrectly.
+2020-07-04 14:14:11 | [main] | ERROR | com.logback.LogbackRollingExample | demoLogError | - feature login error may be due to network problems
+2020-07-04 14:14:16 | [main] | DEBUG | com.logback.LogbackRollingExample | demoLogDebug | - User id 8 has successfully logged in.
+2020-07-04 14:14:16 | [main] | INFO  | com.logback.LogbackRollingExample | demoLogInfo | - User id 8 entered the password incorrectly.
+2020-07-04 14:14:16 | [main] | ERROR | com.logback.LogbackRollingExample | demoLogError | - feature login error may be due to network problems
+2020-07-04 14:14:21 | [main] | DEBUG | com.logback.LogbackRollingExample | demoLogDebug | - User id 9 has successfully logged in.
+2020-07-04 14:14:21 | [main] | INFO  | com.logback.LogbackRollingExample | demoLogInfo | - User id 9 entered the password incorrectly.
+2020-07-04 14:14:21 | [main] | ERROR | com.logback.LogbackRollingExample | demoLogError | - feature login error may be due to network problems
